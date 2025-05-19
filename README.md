@@ -1,6 +1,6 @@
 # Debora – AI-Powered Personal Assistant App (Final Year Project)
 
-**Debora** is a smart, voice-enabled personal assistant Android app developed as part of my final year Bachelor's project. It uses **custom speech recognition**, **Gemini (GPT-based AI)** for intelligent responses, and **Firebase** for real-time data management. Debora helps users manage tasks, stay organized, and interact with AI in a personalized way — all through natural voice commands.
+**Debora** is a smart, voice-enabled personal assistant Android app developed as part of my final year Bachelor's project. It uses **custom speech recognition**, **Gemini API (GPT-based AI)** for intelligent responses, and **Firebase** for real-time data management. Debora helps users manage tasks, stay organized, and interact with AI in a personalized way — all through natural voice commands.
 
 > ⚠️ Note: This project is built for academic purposes and may not be fully production-ready.
 
